@@ -1,0 +1,27 @@
+(1) Collaboration
+
+I am the only person that worked on the project. No collaboration occurred.
+(2) Do you think everything you did is correct?
+
+Yes, I believe everything I implemented is correct. The code adheres to the requirements provided in the assignment. The memory management logic, address translation, and page replacement policies have been implemented as described, and outputs match the expected results when tested.
+(3) If not, give a brief description of what is working and what progress was made on the part that is not working.
+
+N/A.
+(4) Comments
+
+This assignment was challenging yet rewarding. Implementing memory management and address translation provided hands-on experience with core OS concepts.
+
+    Challenges:
+        Understanding the binary file format for logical addresses and ensuring proper file handling.
+        Implementing the Least Recently Used (LRU) page replacement policy efficiently.
+        Debugging address translation and page faults to ensure accuracy in output.
+    Suggestions:
+        Including more test cases with diverse logical address sequences would make the assignment more comprehensive.
+        Adding visualization tools for memory mapping and page replacement could make the concepts easier to grasp.
+
+(5) Program Output
+
+Part 2:
+Page faults: (e.g., 15) (The exact number will depend on the test sequence file provided.)
+
+The program also prints the correct MD5 checksum when verified with the test sequence files provided.
